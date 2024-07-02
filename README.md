@@ -6,21 +6,21 @@ The Live Weather Monitor is a React-based web application that displays real-tim
 
 ## Features
 
-Real-time updates of humidity, temperature, and wind speed.
+- Real-time updates of humidity, temperature, and wind speed.
 
-Clean and responsive user interface.
+- Clean and responsive user interface.
 
-Built with React and styled with Tailwind CSS for a modern look and feel.
+- Built with React and styled with Tailwind CSS for a modern look and feel.
 
 ## How to Use:
 
-Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
-Install dependencies using `npm install`.
+- Install dependencies using `npm install`.
 
-Run the development server using `npm start`.
+- Run the development server using `npm start`.
 
-Access the landing page in your browser at http://localhost:3000.
+- Access the landing page in your browser at http://localhost:3000.
 
 ## Technologies Used
 
@@ -30,9 +30,9 @@ Access the landing page in your browser at http://localhost:3000.
 
 ## Usage
 
-Upon opening the app, you will see the current weather conditions.
+- Upon opening the app, you will see the current weather conditions.
 
-The data (humidity, temperature, wind speed) updates automatically in real-time.
+- The data (humidity, temperature, wind speed) updates automatically in real-time.
 
 ## Contributing
 
