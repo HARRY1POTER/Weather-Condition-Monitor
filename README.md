@@ -24,9 +24,9 @@ Access the landing page in your browser at http://localhost:3000.
 
 ## Technologies Used
 
-React
+- React
 
-Tailwind CSS
+- Tailwind CSS
 
 ## Usage
 
