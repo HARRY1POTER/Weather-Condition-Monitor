@@ -105,7 +105,7 @@ const Weather = () => {
   document.addEventListener("DOMContentLoaded", search);
 
   return (
-    <div className="containers xsm:m-5 w-[607px] h-auto mb-[75px] m-auto mt-[75px] rounded-[12px] bg-gradient-to-t from-indigo-600 to-indigo-500">
+    <div className="containers w-[607px] h-auto mb-[75px] m-auto mt-[75px] rounded-[12px] bg-gradient-to-t from-indigo-600 to-indigo-500">
       <div className="top-bar flex justify-center gap-[14px] pt-[60px]">
         <input
           type="text"
