@@ -12,7 +12,7 @@ Clean and responsive user interface.
 
 Built with React and styled with Tailwind CSS for a modern look and feel.
 
-# How to Use:
+## How to Use:
 
 Clone this repository to your local machine.
 
@@ -22,18 +22,18 @@ Run the development server using `npm start`.
 
 Access the landing page in your browser at http://localhost:3000.
 
-# Technologies Used
+## Technologies Used
 
 React
 
 Tailwind CSS
 
-# Usage
+## Usage
 
 Upon opening the app, you will see the current weather conditions.
 
 The data (humidity, temperature, wind speed) updates automatically in real-time.
 
-# Contributing
+## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or issues, feel free to open a pull request or file an issue in the repository.
